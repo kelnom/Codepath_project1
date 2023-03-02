@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://drive.google.com/file/d/1EkNhKlof3JgJ90VorEzm90tFrvOhc_g5/view?usp=share_link' title='project1_gif' width='' alt='project1_gif' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDJjYTExNzIwYzYxNTg3NmM4ZGNkZDk0NDg2NWE2ZGFkNTg4ZGU2YiZjdD1n/zuCB3JMSillhVsC4VK/giphy.gif' title='project1_gif' width='' alt='project1_gif' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... freeconnvert.com
